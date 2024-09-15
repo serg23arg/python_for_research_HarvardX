@@ -1,0 +1,44 @@
+Module 1: Basics of Python 3
+****************************
+Part 1: Objects and Methods
+Part 2: Sequence Objects 
+Part 3: Manipulating Objects
+Module 1 Homework
+
+Module 2: Python Libraries and Concepts Used in Research
+********************************************************
+Part 1: Scope Rules and Classes
+Part 2: NumPy
+Part 3: Matplotlib and Pyplot
+Part 4: Randomness and Time
+Module 2 Homework
+
+Module 3: Case Studies Part 1
+*****************************
+Case 1: DNA Translation
+        Homework: DNA Translation
+
+Case 2: Language Processing
+        Homework: Language Processing
+
+Case 3: Introduction to Classification
+Homework: Introduction to Classification
+
+Module 4: Case Studies Part 2
+*****************************
+Case 1: Classifying Whiskies
+Homework: Classifying Whiskies
+        
+Case 2: Bird Migration
+Homework: Bird Migration
+
+Case 3: Social Network Analysis
+Homework: Social Network Analysis
+
+Module 5: Statistical Learning
+******************************
+Part 1: Linear Regression
+Part 2: Logistic Regression
+Part 3: Random Forest
+Homework: Movies dataset C (Part 1)
+Homework: Movies dataset Homework: Movies dataset (Part 2)
